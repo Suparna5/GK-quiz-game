@@ -2,3 +2,6 @@
 A simple quiz game written in Python.
 <br>
 Author - Suparna Sabud
+<br>
+#How to run this code in terminal
+python quiz.py
