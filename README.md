@@ -4,4 +4,5 @@ A simple quiz game written in Python.
 Author - Suparna Sabud
 <br>
 #How to run this code in terminal
+<br>
 python quiz.py
